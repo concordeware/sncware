@@ -1,0 +1,2 @@
+script_key="OSBxaXRESpAIcVMwVVMPfovUGZCpYGwW";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bobbymarley425/prem-loader/main/loader"))()
