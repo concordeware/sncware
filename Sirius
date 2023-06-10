@@ -1,0 +1,2 @@
+_G.wl_key = "ff9803813cbaae836ed0bbe8d120ce01d5273ab9"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Razr7315/Sirius-List/main/load/load.lua',true))()
